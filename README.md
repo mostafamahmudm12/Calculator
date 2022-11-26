@@ -1,4 +1,4 @@
-# calc
+# this is project calculator using flutter
 
 A new Flutter project.
 
